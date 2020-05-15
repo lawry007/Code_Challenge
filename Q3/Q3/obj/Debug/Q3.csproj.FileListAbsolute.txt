@@ -1,0 +1,5 @@
+C:\Users\loolaoluwa\Documents\AssessmentTest\Q3\Q3\bin\Debug\Q3.exe
+C:\Users\loolaoluwa\Documents\AssessmentTest\Q3\Q3\bin\Debug\Q3.pdb
+C:\Users\loolaoluwa\Documents\AssessmentTest\Q3\Q3\obj\Debug\Q3.csprojAssemblyReference.cache
+C:\Users\loolaoluwa\Documents\AssessmentTest\Q3\Q3\obj\Debug\Q3.exe
+C:\Users\loolaoluwa\Documents\AssessmentTest\Q3\Q3\obj\Debug\Q3.pdb
